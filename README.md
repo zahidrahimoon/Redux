@@ -33,9 +33,9 @@ Luxeloom-Api is a web application that allows users to browse and purchase produ
    npm start
    ```
 
-## Usage
+## Demo
 
-- Visit the live demo [here](https://your-live-demo-url.com).
+- Visit the live demo [here](https://luxeloomredux.netlify.app/Productlisting).
 
 ## Screenshots
 

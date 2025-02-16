@@ -2,7 +2,7 @@
 
 ### 1. **Redux Toolkit (RTK)**
 
-Redux Toolkit is the official, opinionated, batteries-included toolset for efficient Redux development. It simplifies Redux by reducing boilerplate code and includes utilities for common use cases like store setup, reducers, and middleware configuration.
+Redux Toolkit is the official, opinionated, batteries-included toolset for efficient Redux development. It simplifies Redux by reducing boilerplate code and includes utilities for common use cases like store setup, reducers, and middleware configuration...
 
 ### 2. **Store**
 

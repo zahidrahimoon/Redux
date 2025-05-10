@@ -2,11 +2,11 @@
 
 ### 1. **Redux Toolkit (RTK)**
 
-Redux Toolkit is the official, opinionated, batteries-included toolset for efficient Redux development. It simplifies Redux by reducing boilerplate code and includes utilities for common use cases like store setup, reducers, and middleware configuration. ([InterviewBit][1])
+Redux Toolkit is the official, opinionated, batteries-included toolset for efficient Redux development. It simplifies Redux by reducing boilerplate code and includes utilities for common use cases like store setup, reducers, and middleware configuration.
 
 ### 2. **Store**
 
-The store is a centralized container that holds the entire state of the application. In Redux Toolkit, the `configureStore` function is used to create the store with good default settings, including built-in support for Redux DevTools and middleware like Redux Thunk. ([Verve Copilot][2])
+The store is a centralized container that holds the entire state of the application. In Redux Toolkit, the `configureStore` function is used to create the store with good default settings, including built-in support for Redux DevTools and middleware like Redux Thunk. 
 
 ### 3. **Slice**
 
@@ -44,11 +44,10 @@ Immer is a library that allows you to work with immutable state in a more conven
 
 ## 🧠 **Key Concepts and Principles**
 
-* **Single Source of Truth**: The entire state of the application is stored in a single store, making it easier to manage and debug. ([CLIMB][3])
+* **Single Source of Truth**: The entire state of the application is stored in a single store, making it easier to manage and debug. 
 
-* **State is Read-Only**: The only way to change the state is by dispatching actions, ensuring predictable state transitions. ([CLIMB][3])
-
-* **Changes are Made with Pure Functions**: Reducers are pure functions that take the current state and an action as arguments and return a new state. ([CLIMB][3])
+* **State is Read-Only**: The only way to change the state is by dispatching actions, ensuring predictable state transitions.
+* **Changes are Made with Pure Functions**: Reducers are pure functions that take the current state and an action as arguments and return a new state. 
 
 ---
 
